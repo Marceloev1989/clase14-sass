@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    color: blue;
+}
+.btn-card{
+    background-color: rgb(10, 81, 94);
+    color: white;
+}
+.card-body{
+    background-color: rgb(200, 212, 212);
+}
+.card{
+    width: 16rem;
+}
+
+
+.color-nav{
+    background-color: crimson;
+    font-weight: 900;
+}
+
+.negrita{
+    font-weight: 900;
+}

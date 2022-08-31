@@ -1,0 +1,30 @@
+header{
+    div{
+        .titulo{
+            color: brown;
+            text-align: center;
+        }
+        h2 {
+        color: coral;
+        text-align: center;
+        }    
+    }
+}
+nav{
+    div{
+        div{
+            ul{
+                li{
+                    font-size: 24px;
+                    font-weight: 700;
+                    font-family: monospace
+                }
+
+                    &:hover{
+                        text-shadow: 0 0 10px red;
+                    }
+            }
+        }
+    }
+    
+}
